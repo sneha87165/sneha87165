@@ -1,21 +1,15 @@
-<div align="center">
-  <h2>Hi 👋, I'm Sneha Rajput</h2>
-  <h3>A passionate MERN Stack Developer from India</h3>
-</div>
+# Hi 👋, I'm Sneha Rajput
 
-<br/>
+**A Passionate MERN Stack Developer | Aspiring Software Engineer | GSSoC '26 Contributor**
 
-<div align="center">
-  <!-- Replace the image link below with any illustration or GIF you prefer -->
-  <img align="right" width="350" src="https://cdni.iconscout.com/illustration/premium/thumb/coder-3462295-2895977.png" alt="Coding Illustration" />
-</div>
+<img align="right" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/female-developer-working-on-project-4128695-3428236.png" alt="3D Girl Developer" />
 
-- 🌱 Currently diving deep into **Data Structures and Algorithms & Open Source Contributions (GSSoC '26)**
-- 🤝 Open to collaborating on **MERN Stack Projects and Open Source initiatives**
-- 💬 Ask me about **MongoDB, Express, React, Node.js, and UI/UX Design**
-- 🏆 **Student Partner at Internshala & 2nd position in College Hackathon**
+- 🚀 I'm a final-year CS student from India, specializing in the MERN stack to build scalable web applications.
+- 💻 Deep diving into Data Structures & Algorithms while contributing to impactful Open Source projects.
+- 🏆 Honored to be a selected GSSoC '26 Contributor, currently contributing to open-source initiatives.
+- 🎓 Internshala Student Partner | College Hackathon 2nd Place | Dedicated to building seamless UI/UX and efficient backend solutions.
 
-<br/>
+<br/><br/>
 
 ### 🛠️ Tech Stack
 
@@ -36,25 +30,20 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sneha87165&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha87165&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<br/>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sneha87165&theme=radical&margin-w=15" alt="GitHub Trophies" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sneha87165&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha87165&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
 
 ### 🔗 Connect with me
 
-<div align="center">
-  <a href="https://linkedin.com/in/sneha-rajput-718b63337" target="_blank">
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+  <br/>
+  <br/>
+  🌐 <b>Portfolio Website:</b> <a href="YOUR_PORTFOLIO_LINK">[sneharajput.com]</a>
+</p>

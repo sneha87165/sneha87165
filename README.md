@@ -2,23 +2,9 @@
 
 ### 💻 MERN Stack Developer | Backend Explorer 🚀
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,postgresql,mysql,prisma,ts,git,github,vscode,postman" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,postgresql,mysql,prisma,ts,git,github,vscode,postman" />
 </p>
-
----
-
-### ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,mongodb,postgresql,mysql,prisma" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-</p>
-
----
 
 ### 📈 Contribution Graph
 
@@ -26,20 +12,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sneha87165&theme=tokyo-night&hide_border=true" />
 </p>
 
----
 
 ### 🔥 Currently
 
 <p align="center">
 
-🚀 Full-Stack Development   •  
-⚙️ Backend Architecture   •  
-🧠 APIs & Databases   •  
+🚀 Full-Stack Development
+⚙️ Backend Architecture  
+🧠 APIs & Databases  
 🤝 Open to Collaborate
 
 </p>
 
----
 
 ### 🌐 Connect With Me
 
